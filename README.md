@@ -1,2 +1,2 @@
-# snippet-programming
-Automatic programming via snippets
+# dsl-programming
+Automatization development via DSL for current job
